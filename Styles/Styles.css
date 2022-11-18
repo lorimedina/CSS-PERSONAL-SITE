@@ -1,0 +1,158 @@
+body{
+	color: white;
+	text-align: center;
+	margin: 0px;
+}
+h1,h2{
+	font-family: 'Press Start 2P', cursive;
+	font-size: 45px;
+}
+
+
+hr{
+	border-style: dotted;
+	border-width: 5px;
+}
+
+
+
+/*top*/
+.Top{
+	
+	padding: 250px;
+	background-image: url("TBg.jpg");
+	background-size: 92%;
+
+}
+.sun{
+	width: 290px;
+	height: 280px;
+}
+.me{
+	width: 180px;
+	height: 180px;
+	border-radius: 57% ;
+}
+.mtn{
+	position: absolute;
+	left: 0px;
+	bottom: -260px;
+	width: 1900px	;
+	height: 300px;
+
+}
+
+
+
+/*mid*/
+.Mid{
+	margin: 0px;
+	padding: 50px;
+	background-color: #645CAA;
+	font-family: 'Orbitron', sans-serif;
+
+}
+.FoodTD{
+	padding-left: 100px;
+
+}
+.SkillTD{
+	padding-left: 600px;
+
+}
+.skl{
+	text-align: center;
+	margin: 0px;
+}
+.food{
+	float: left;
+	margin-top: -10px;
+	margin-bottom: -45px;
+	width: 250px;
+	height: 300px;
+}
+
+.cube{
+	float: left;
+	padding-top: 20px;	
+	padding-right: 20px;	
+	margin-bottom: 2px;
+	width: 250px;
+	height: 250px;
+}
+.Mdiv{
+	text-align: center;
+}
+.math{
+
+	width: 250px;
+	height: 250px;
+}
+
+.btn {
+   background: #68DD18;
+   background-image: -webkit-linear-gradient(top, #68DD18, #45F913);
+   background-image: -moz-linear-gradient(top, #68DD18, #45F913);
+   background-image: -ms-linear-gradient(top, #68DD18, #45F913);
+   background-image: -o-linear-gradient(top, #68DD18, #45F913);
+   background-image: -webkit-gradient(to bottom, #68DD18, #45F913);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 26px;
+   line-height: 26px;
+   color: #F9F9F9;
+   font-family:'Press Start 2P', cursive;
+   width: 147px;
+   font-size: 15px;
+   font-weight: 300;
+   padding: 12px;
+   text-shadow: -1px 1px 6px #17C7D9;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #ED3333 1px;
+   background: #811616;
+   background-image: -webkit-linear-gradient(top, pink, lightpink);
+   background-image: -moz-linear-gradient(top, pink, lightpink);
+   background-image: -ms-linear-gradient(top, pink, lightpink);
+   background-image: -o-linear-gradient(top, pink, lightpink);
+   
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+/*bot*/
+.Bot{
+	padding: 100px	;
+	background-color: #AFB4FF;
+
+}
+
+.footer-link{
+	font-family: 'Press Start 2P', cursive;
+	text-decoration: none;
+	margin: 10px;
+	font-size: 30px	;
+	color: orangered;
+}
+
+.footer-link:hover{
+	color: white;
+}
+.credit{
+	margin-top: 100px;
+	font-size: 25px	;
+
+}
+/*
+	font-family: 'Press Start 2P', cursive;
+	font-family: 'Ubuntu Mono', monospace;
+	font-family: 'Orbitron', sans-serif;
+		
